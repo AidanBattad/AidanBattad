@@ -3,6 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Aidan Liam Battad</h1>
 <h3 align="center">A passionate and aspiring Software Engineer from the Philippines</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aidanbattad&label=Profile%20views&color=0e75b6&style=flat" alt="aidanbattad" /> 
 <p>Certificates:</p>
 <ul>
     <li><a href="https://drive.google.com/file/d/13VPv9WGuHP96N5K_RtddX4sBm5BkFUYc/view">Business Analytics with Excel</a></li>
@@ -12,7 +13,7 @@
     <img align="right" alt="Coding" width="170" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 </ul>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aidanbattad&label=Profile%20views&color=0e75b6&style=flat" alt="aidanbattad" /> 
+
  </p>
 
 
