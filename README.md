@@ -9,8 +9,9 @@
     <li><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=2198295F3014835EBD6DD72C61389A0521E9808A86663E86B85E8AE66ADD36B4">Oracle Cloud Data Management 2022 Foundations Certified Associate</a></li>
     <li><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=CF747F1E57B527F36619C9011212D417866C9F6AC50E84F68F318F447A02EF85">Oracle Cloud Infrastructure 2022 Certified Foundations Associate</a></li>
     <li><a href="https://courses.cognitiveclass.ai/certificates/4d69868262b8465cb25c8359112e4b3b">SQL and Relational Databases 101</a></li>
+    <img align="right" alt="Coding" width="170" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 </ul>
-<img align="right" alt="Coding" width="170" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aidanbattad&label=Profile%20views&color=0e75b6&style=flat" alt="aidanbattad" /> 
  </p>
 
