@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Aidan Liam Battad</h1>
 <h3 align="center">A passionate and aspiring Software Engineer from the Philippines</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aidanbattad&label=Profile%20views&color=0e75b6&style=flat" alt="aidanbattad" /> 
-<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"> </p>
+<img align="right" alt="Coding" width="150" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"> </p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aidanbattad" alt="aidanbattad" /></a> </p>
