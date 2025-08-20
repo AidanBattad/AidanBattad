@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://AidanBattad.io)
 
 
-<h1 align="center">Hi 👋, I'm Aidan Liam Battad</h1>
+<h1 align="center">Hi 👋, I'm Aidan Liam </h1>
 <h3 align="center">A passionate and aspiring Software Engineer from the Philippines</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aidanbattad&label=Profile%20views&color=0e75b6&style=flat" alt="aidanbattad" /> 
 <p>Certificates:</p>
